@@ -1,0 +1,8 @@
+{
+  "label": "页面",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "每个页面所需呈现的内容和格式"
+  }
+}
