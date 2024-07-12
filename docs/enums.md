@@ -25,7 +25,7 @@ sidebar_position: 4
 - Accepted**
 - Time Limit Exceeded**
 - Idleness Limit Exceeded
-- Memory Limit Exceededed**
+- Memory Limit Exceeded**
 - Runtime Error**
 - Denial of Judgement*
 - Compilation Error
@@ -46,3 +46,16 @@ sidebar_position: 4
 - orange: 橙色
 - grey: 灰色
 - legendary: 很特殊，首字母黑色，后面红色
+
+## 编程语言
+
+- C
+- C++11
+- C++14
+- C++17
+- C++20
+- Python3
+- PyPy3
+- Java17
+- Pascal
+- Text
